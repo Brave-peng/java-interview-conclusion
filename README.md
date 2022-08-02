@@ -18,8 +18,13 @@ to-do list
 - [x] 并发编程
 - [ ] JVM
 - [ ] 设计模式
-- [ ] Spring框架知识
-- [ ] MySQL（正在编写中）
+- [ ] 框架知识
+  - [x] Spring
+  - [ ] SpringMVC
+  - [ ] Mybatis
+  - [ ] Springboot
+  - [ ] MybatisPlus
+- [ ] MySQL
 - [ ] Redis
 - [ ] 计算机网络
 - [ ] 操作系统
