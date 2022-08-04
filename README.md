@@ -21,12 +21,12 @@ to-do list
 - [ ] 框架知识
   - [x] Spring
   - [ ] SpringMVC
-  - [ ] Mybatis
+  - [x] Mybatis
   - [ ] Springboot
   - [ ] MybatisPlus
-- [ ] MySQL
+- [x] MySQL
 - [ ] Redis
-- [ ] 计算机网络
+- [ ] 计算机网络（正在编写中）
 - [ ] 操作系统
 - [ ] 数据结构
 - [ ] 分布式
