@@ -25,8 +25,8 @@ to-do list
   - [ ] Springboot
   - [ ] MybatisPlus
 - [x] MySQL
-- [ ] Redis
-- [ ] 计算机网络（正在编写中）
+- [ ] Redis（正在编写中）
+- [x] 计算机网络
 - [ ] 操作系统
 - [ ] 数据结构
 - [ ] 分布式
